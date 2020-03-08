@@ -42,7 +42,7 @@ This module has taught me the following:
 ## Summary 
 ***Please note the stat code can be found in the R Script file,  and the analysis belw can be found in text file
 
-~MPG Regression~
+~MPG Regression
 
 To better predict mpg (dependent variable), we can add other variable such as vehicle length, vehicle weight, spoiler angle, ground clearance as independent variables to the multiple linear regression model. I took out AWD because it is a true/false 0,1 category, not a numerical one like the other variables.
 
@@ -68,7 +68,7 @@ No, this linear model does not predicts mpg of MechaCar prototypes effectively b
 
 The intercept is statistically significant, which means there are other variables and factors that contribute to the variation in mpg.
 
-~Suspension Coil Summary~
+~Suspension Coil Summary
 
 The summary statistics table for the suspension coil’s pounds-per-inch continuous variable is the following:
 
@@ -81,7 +81,7 @@ The summary statistics table for the suspension coil’s pounds-per-inch continu
 
 Yes, the current manufacturing data does meet this design specification. The calculated variance is 62.29356, which is smaller and does not exceed 100, which fits and meets the design specification.
 
-~Suspension Coil T-Test~
+~Suspension Coil T-Test
 
 I performed an one sample t-test on the different manufacturing lots. 
 
@@ -106,7 +106,7 @@ mean of x
   
 The results fail to reject the null hypothesis because the p-value is greater than .05, which means the sample mean lies within in the 95 percent confidence internal. 
 
-~Design Your Own Study~
+~Design Your Own Study
 
 -Think critically about what metrics you would think would be of interest to a consumer (cost, fuel efficiency, color options, etc.).
 
